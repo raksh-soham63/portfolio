@@ -24,33 +24,27 @@ const About = () => {
             transition={{ duration: 0.6 }}
           >
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I'm a passionate full-stack developer with over 5 years of experience 
-              building scalable web applications. I love turning complex problems 
-              into simple, beautiful designs.
+              I’m a full-stack developer with a strong foundation in building scalable web applications. Alongside development, I bring expertise in cybersecurity and Linux systems, ensuring secure and efficient solutions. Passionate about problem-solving, I thrive at the intersection of software, security, and system optimization.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              My expertise spans across modern JavaScript frameworks, cloud 
-              technologies, and agile development practices. I'm always eager to 
-              learn new technologies and contribute to innovative projects.
+              Building secure, scalable, and modern web solutions.
+              Full-stack developer with expertise in JavaScript, Node.js, React, MongoDB, and Java.
+              Skilled in AWS, Docker, Linux, and cybersecurity for efficient, reliable deployments.
             </p>
             <div className="space-y-4">
               <h3 className="text-xl font-semibold text-primary">What I Do</h3>
               <ul className="space-y-2 text-muted-foreground">
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-primary rounded-full mr-3"></span>
-                  Frontend Development (React, Vue, TypeScript)
+                  Frontend Development (React, JSX)
                 </li>
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-primary rounded-full mr-3"></span>
-                  Backend Development (Node.js, Python, PostgreSQL)
+                  Backend Development (Node.js, Express.js )
                 </li>
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-primary rounded-full mr-3"></span>
                   Cloud Architecture (AWS, Docker, Kubernetes)
-                </li>
-                <li className="flex items-center">
-                  <span className="w-2 h-2 bg-primary rounded-full mr-3"></span>
-                  UI/UX Design & Prototyping
                 </li>
               </ul>
             </div>

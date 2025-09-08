@@ -8,9 +8,13 @@ const Skills = () => {
     'CyberSecurity',
     'Networking',
     'Linux',
+    'Java',
     'Python',
     'Git',
     'Tailwind CSS',
+    'AWS',
+    'Kubernetes',
+    'Docker'
   ];
 
   return (

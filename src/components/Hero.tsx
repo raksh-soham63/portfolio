@@ -51,7 +51,7 @@ const Hero = () => {
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.6, delay: 0.6 }}
               >
-                Alex Chen
+                Soham Rakshit 
               </motion.span>
             </motion.h1>
             <motion.h2 
@@ -60,7 +60,7 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.8 }}
             >
-              Full-Stack Developer crafting digital experiences with modern technologies and clean code
+              Full-stack developer skilled in web applications, cybersecurity, and Linux systems, with a focus on delivering secure and efficient solutions.
             </motion.h2>
             <motion.div 
               className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start"
