@@ -28,7 +28,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="text-center md:text-left">
             <p className="text-muted-foreground">
-              © {currentYear} Alex Chen. All rights reserved.
+              © {currentYear} Soham Rakshit. All rights reserved.
             </p>
           </div>
 
